@@ -1,0 +1,6 @@
+{
+  "name": "RedMarket Grocery",
+  "description": "Premium online grocery web app with fresh organic produce, express delivery, meal bundles, and a sleek dark and gradient red aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
